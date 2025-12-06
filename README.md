@@ -1,4 +1,4 @@
-[index.tsx](https://github.com/user-attachments/files/23997724/index.tsx)
+[index.tsx](https://github.com/user-attachments/files/23997739/index.tsx)
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
